@@ -1,0 +1,3 @@
+﻿  ConsoleApplication8.cpp
+C:\Users\Dima\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(84,8): warning C4101: board: неиспользованная локальная переменная
+  ConsoleApplication8.vcxproj -> C:\Users\Dima\source\repos\ConsoleApplication8\x64\Debug\ConsoleApplication8.exe
